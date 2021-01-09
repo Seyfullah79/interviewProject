@@ -1,0 +1,21 @@
+* Task
+** Use JAVA 1.8
+** Implement missing classes
+** Logic
+*** Only EUR needs to be supported
+*** Savings Account (not negative balance)
+*** Current/checking Account (max negative balance of account specific configurable amount in Euro)
+*** Loan Account (only negative balance)
+*** Needs to support multithreaded execution
+** Use patterns where applicable (e. g. Factory, Builder, etc.)
+** Test cases need to be successful finally
+
+
+* DoD
+** Documentation
+** Test automation (QA)
+** Formatting, Imports
+** Code structure (Class names, package hierarchy and names)
+** Exception handling
+** Over all test coverage > 75 % (simple getter/setter not necessary)
+** Production ready code (and config if applicable)
